@@ -1,4 +1,4 @@
-![image](https://github.com/ymarxall/ymarxall/assets/154050023/2e6e1fc3-5886-45e3-a27d-b5f8a0f9ab8b)<h2> Halo! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> YMI</h2>
+<h2> Halo! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> YMI</h2>
 
 
 
